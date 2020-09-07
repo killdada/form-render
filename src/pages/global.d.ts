@@ -1,2 +1,2 @@
-declare module 'fr-generator'
-// declare module 'form-render/lib/antd'
+declare module 'fr-generator';
+declare module 'form-render/lib/antd';
